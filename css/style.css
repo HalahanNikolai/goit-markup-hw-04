@@ -78,6 +78,8 @@ img {
 }
 .hdr-container {
   border-bottom: 1px solid #e7e9fc;
+  box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 .hdr-container-two {
   display: flex;
@@ -137,6 +139,11 @@ img {
 }
 .header-adr-list {
   gap: 40px;
+}
+.header-menu-one {
+  color: #404bbf;
+  position: relative;
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 /* .nav-txt-studio {
   color: #2196f3;
