@@ -131,7 +131,6 @@ img {
   letter-spacing: 0.02em;
   color: #2e2f42;
   padding: 24px 0;
-  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .nav-link:hover,
@@ -417,6 +416,7 @@ footer {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .nav-link-stud-hdr:hover,
 .nav-link-stud-hdr:focus {
