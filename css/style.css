@@ -486,6 +486,31 @@ img {
 .fourth-icon {
   fill: #f4f4fd;
 }
+/*  ************************ sect 5 *********************** */
+.sect-custom {
+}
+.section {
+}
+.sect-fife-title {
+  text-align: center;
+  font-family: Roboto;
+  font-size: 36px;
+  line-height: 40px;
+  line-height: 95%;
+
+  vertical-align: Top;
+  letter-spacing: 2%;
+}
+.custom-list {
+}
+.custom-list-item {
+}
+.customer-link {
+}
+
+.custom-svg {
+}
+
 /*  ************************ footer *********************** */
 footer {
   background: #2f303a;
