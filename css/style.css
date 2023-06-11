@@ -614,6 +614,7 @@ footer {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  font-size: 16px;
   color: #ffffff;
   margin-bottom: 16px;
 }
@@ -639,6 +640,7 @@ footer {
 
 .footer-icons:focus,
 .footer-icons:hover {
+  background-color: #31d0aa;
 }
 .footer-ico {
   fill: #f4f4fd;
