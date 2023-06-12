@@ -705,8 +705,8 @@ footer {
   transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.prtf-prjkt-link:hover,
-.prtf-prjkt-link:focus {
+.prtf-prjkt-link:focus,
+.prtf-slide-text {
   transform: translateY(0%);
 }
 /*? ****************** MAIN  ******************/
