@@ -724,6 +724,10 @@ footer {
 }
 
 .prtf-prjkt-pict {
+  margin-right: 24px;
+  margin-bottom: 48px;
+  position: relative;
+  overflow: hidden;
 }
 .prtf-prjkt-pict.link {
   text-decoration: none;
@@ -747,8 +751,7 @@ footer {
   position: relative;
   overflow: hidden;
 }
-.prtf-slide-img:hover,
-.prtf-slide-text:focus {
+.prtf-slide-img:hover .prtf-slide-text {
   transform: translateY(0);
 }
 .prtf-slide-text {
