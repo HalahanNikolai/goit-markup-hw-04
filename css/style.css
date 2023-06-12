@@ -747,7 +747,8 @@ footer {
   position: relative;
   overflow: hidden;
 }
-.prtf-slide-img:hover .prtf-slide-text {
+.prtf-slide-img:hover,
+.prtf-slide-text:focus {
   transform: translateY(0);
 }
 .prtf-slide-text {
