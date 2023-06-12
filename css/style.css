@@ -772,9 +772,9 @@ footer {
   transform: translateY(0);
 }
 .prtf-slide-img:hover,
-.prtf-slide-text {
+/* .prtf-slide-text {
   transform: translateY(0);
-}
+} */
 
 /*? ****************** FOOTER  ******************/
 .footer-bg {
