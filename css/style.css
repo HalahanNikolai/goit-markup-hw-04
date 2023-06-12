@@ -724,10 +724,6 @@ footer {
 }
 
 .prtf-prjkt-pict {
-  margin-right: 24px;
-  margin-bottom: 48px;
-  position: relative;
-  overflow: hidden;
 }
 .prtf-prjkt-pict.link {
   text-decoration: none;
