@@ -696,8 +696,6 @@ footer {
 .link:hover,
 .link:focus {
   color: #404bbf;
-  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
-    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 .prtf-prjkt-link {
   text-decoration: none;
@@ -708,6 +706,11 @@ footer {
 .prtf-prjkt-link:focus,
 .prtf-slide-text {
   transform: translateY(0%);
+}
+.prtf-prjkt-link:hover,
+.prtf-prjkt-link:focus > .prtf-slide-text {
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 /*? ****************** MAIN  ******************/
 .prtf-section-container {
